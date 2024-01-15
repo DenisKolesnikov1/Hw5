@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hm5");
+        System.out.println("Homeworkm5");
         //Задача 1
         int clientOs = 0;
         if (clientOs == 0) {
